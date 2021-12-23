@@ -2842,10 +2842,4 @@ Copyright Complaint
 </script>
 </body>
 </html>
-    allprojects {
-		repositories {
-			//...
-			maven { url 'https://jitpack.io' }
-		}
-	}'com.github.flutterwave.rave-android:rave_android:2.1.38'
-  <uses-permission android:name="android.permission.INTERNET" /> 
+    
